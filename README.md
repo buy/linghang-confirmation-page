@@ -2,9 +2,8 @@
 This is the repo that host the post-application confirmation of Linghang Mentorship Program.
 
 
-Theme information below:
 
-## Welcome to GitHub Pages
+## Page Theme Reference
 
 You can use the [editor on GitHub](https://github.com/buy/linghang-confirmation-page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
